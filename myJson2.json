@@ -1,0 +1,120 @@
+{
+    "suites": [
+        {
+            "name": "My Login application",
+            "startTime": "2024-11-04T13:04:19.711Z",
+            "tag": "apollo",
+            "specName": "/app/test/specs/apollo/test.apollo.ts",
+            "tests": [
+                {
+                    "name": "Login Flow for Apollo with ft worker type",
+                    "startTime": "2024-11-04T13:04:20.136Z",
+                    "orgName": "apollo",
+                    "result": "failed (Retrying)",
+                    "duration": 627,
+                    "steps": [],
+                    "testVideo": "./videos/Login_Flow_for_Apollo_with_ft_worker_type_AppiumDriver-1730725460767.mp4",
+                    "apiCalls": [],
+                    "endTime": "2024-11-04T13:04:20.766Z",
+                    "error": "Error: Authentication failed: Error: Axios error : Request failed with status code 400"
+                },
+                {
+                    "name": "Login Flow for Apollo with ft worker type (Retry 1)",
+                    "startTime": "2024-11-04T13:04:28.952Z",
+                    "orgName": "apollo",
+                    "result": "failed (Retrying)",
+                    "duration": 542,
+                    "steps": [],
+                    "testVideo": "./videos/Login_Flow_for_Apollo_with_ft_worker_type_AppiumDriver-1730725469498.mp4",
+                    "apiCalls": [],
+                    "endTime": "2024-11-04T13:04:29.495Z",
+                    "error": "Error: Authentication failed: Error: Axios error : Request failed with status code 400"
+                },
+                {
+                    "name": "Login Flow for Apollo with ft worker type (Retry 2)",
+                    "startTime": "2024-11-04T13:04:37.567Z",
+                    "orgName": "apollo",
+                    "result": "failed (Retrying)",
+                    "duration": 543,
+                    "steps": [],
+                    "testVideo": "./videos/Login_Flow_for_Apollo_with_ft_worker_type_AppiumDriver-1730725478114.mp4",
+                    "apiCalls": [],
+                    "endTime": "2024-11-04T13:04:38.111Z",
+                    "error": "Error: Authentication failed: Error: Axios error : Request failed with status code 400"
+                },
+                {
+                    "name": "Login Flow for Apollo with ft worker type (Retry 3)",
+                    "startTime": "2024-11-04T13:04:46.193Z",
+                    "orgName": "apollo",
+                    "result": "failed",
+                    "duration": 557,
+                    "steps": [],
+                    "testVideo": "./videos/Login_Flow_for_Apollo_with_ft_worker_type_AppiumDriver-1730725486755.mp4",
+                    "apiCalls": [],
+                    "endTime": "2024-11-04T13:04:46.751Z",
+                    "error": "Error: Authentication failed: Error: Axios error : Request failed with status code 400"
+                },
+                {
+                    "name": "Verify employee name is same in rider profile page",
+                    "startTime": "2024-11-04T13:04:55.444Z",
+                    "orgName": "apollo",
+                    "result": "failed (Retrying)",
+                    "duration": 541,
+                    "steps": [],
+                    "testVideo": "./videos/Verify_employee_name_is_same_in_rider_profile_page_AppiumDriver-1730725495988.mp4",
+                    "apiCalls": [],
+                    "endTime": "2024-11-04T13:04:55.986Z",
+                    "error": "Error: Authentication failed: Error: Axios error : Request failed with status code 400"
+                },
+                {
+                    "name": "Verify employee name is same in rider profile page (Retry 1)",
+                    "startTime": "2024-11-04T13:05:04.594Z",
+                    "orgName": "apollo",
+                    "result": "failed (Retrying)",
+                    "duration": 539,
+                    "steps": [],
+                    "testVideo": "./videos/Verify_employee_name_is_same_in_rider_profile_page_AppiumDriver-1730725505136.mp4",
+                    "apiCalls": [],
+                    "endTime": "2024-11-04T13:05:05.134Z",
+                    "error": "Error: Authentication failed: Error: Axios error : Request failed with status code 400"
+                },
+                {
+                    "name": "Verify employee name is same in rider profile page (Retry 2)",
+                    "startTime": "2024-11-04T13:05:13.661Z",
+                    "orgName": "apollo",
+                    "result": "failed (Retrying)",
+                    "duration": 538,
+                    "steps": [],
+                    "testVideo": "./videos/Verify_employee_name_is_same_in_rider_profile_page_AppiumDriver-1730725514200.mp4",
+                    "apiCalls": [],
+                    "endTime": "2024-11-04T13:05:14.199Z",
+                    "error": "Error: Authentication failed: Error: Axios error : Request failed with status code 400"
+                },
+                {
+                    "name": "Verify employee name is same in rider profile page (Retry 3)",
+                    "startTime": "2024-11-04T13:05:22.220Z",
+                    "orgName": "apollo",
+                    "result": "failed",
+                    "duration": 574,
+                    "steps": [],
+                    "testVideo": "./videos/Verify_employee_name_is_same_in_rider_profile_page_AppiumDriver-1730725522798.mp4",
+                    "apiCalls": [],
+                    "endTime": "2024-11-04T13:05:22.797Z",
+                    "error": "Error: Authentication failed: Error: Axios error : Request failed with status code 400"
+                },
+                {
+                    "name": "Pickup and Delivery Flow with status validation from dashboard",
+                    "startTime": "2024-11-04T13:05:30.822Z",
+                    "orgName": "apollo",
+                    "result": "failed (Retrying)",
+                    "duration": 551,
+                    "steps": [],
+                    "testVideo": "./videos/Pickup_and_Delivery_Flow_with_status_validation_from_dashboard_AppiumDriver-1730725531378.mp4",
+                    "apiCalls": [],
+                    "endTime": "2024-11-04T13:05:31.375Z",
+                    "error": "Error: Authentication failed: Error: Axios error : Request failed with status code 400"
+                }
+            ]
+        }
+    ]
+}
